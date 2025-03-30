@@ -20,5 +20,5 @@ This is a Python-based password-cracking tool that supports both **wordlist-base
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-cracker.git
+   git clone https://github.com/securityhunters007/password-cracker.git
    cd password-cracker
